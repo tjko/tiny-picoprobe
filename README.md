@@ -1,5 +1,5 @@
 # tiny-picoprobe
-Tiny PicoProbe PCB, when you want to use PicoProbe without a breadboard...
+Tiny PicoProbe PCB, when you want to use PicoProbe to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) programs without a breadboard...
 
 ![Tiny PicoProbe PCB](images/tiny-picoprobe.png)
 
