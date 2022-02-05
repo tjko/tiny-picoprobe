@@ -6,7 +6,7 @@ Tiny PicoProbe PCB, when you want to use PicoProbe without a breadboard...
 Designed with KiCad 6.0.  PCB allows mounting Pico directly or using headers.
 
 ## Kerbers
-Kerber files ready to be uploade a PCB maker website (like JLCPB, etc):
+Kerber files ready to be sent to a PCB maker (like JLCPB, etc):
 * [PCB Version 1.0](kerbers/tiny-picoprobe-v1.zip)
 
 ## Credits
