@@ -3,7 +3,7 @@ Tiny PicoProbe PCB, when you want to use PicoProbe to debug your [Raspberry Pi P
 
 ![Tiny PicoProbe PCB](images/tiny-picoprobe.png)
 
-Designed with KiCad 6.0.  PCB allows mounting Pico directly or using headers.
+Designed with [KiCad](https://www.kicad.org/) 6.0.  PCB allows mounting Pico directly or using headers.
 
 ## Kerbers
 Kerber files ready to be sent to a PCB maker (like JLCPB, etc):
