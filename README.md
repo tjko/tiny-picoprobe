@@ -10,6 +10,6 @@ Kerber files ready to be sent to a PCB maker (like JLCPB, etc):
 * [PCB Version 1.0](kerbers/tiny-picoprobe-v1.zip)
 
 ## Credits
-Idea for this PCB came from [Fabien-Chouteau/picoprobe-pcb](/Fabien-Chouteau/picoprobe-pcb) (check his version as he sells it on Tindie).
+Idea for this PCB came from [Fabien-Chouteau/picoprobe-pcb](https://github.com/Fabien-Chouteau/picoprobe-pcb) (check his version as he sells it on Tindie).
 
-KiCad Pico model/footprint that was used can be found here [ncarandini/KiCad-RP-Pico](/ncarandini/KiCad-RP-Pico)
+KiCad Pico model/footprint that was used can be found here [ncarandini/KiCad-RP-Pico](https://github.com/ncarandini/KiCad-RP-Pico)
