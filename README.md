@@ -18,8 +18,9 @@ PCB contains footprints for a 0805 size SMD LED and resistor to provide power in
 ID|Type|Description|Mouser P/N|LCSC P/N
 --|----|-----------|----------|---------
 D1|LED (0805)|Pad is suitable for handsoldering 0805 size LEDs, 0603 should work as well...|710-150080GS75000 (?)|C434432
-R1|7.5k (0805)|Depending on LED used choose appropriate resistor. Green high-intensity 0805 LEDs typically work nicely with resitor in 5k to 10k range|603-RC0805FR-077K5L|C229003
+R1|7.5k (0805)|Depending on LED used choose appropriate resistor. Green high-intensity 0805 LEDs typically work nicely with resistor in 5k to 10k range|603-RC0805FR-077K5L|C229003
 
+Note, if soldering Pico directly on the PCB, then 1" diameter shrink tubing can be used to wrap the pico and PCB in nice insulated package.
 
 ## Credits
 Idea for this PCB came from [Fabien-Chouteau/picoprobe-pcb](https://github.com/Fabien-Chouteau/picoprobe-pcb) (check his version as he sells it on Tindie).
