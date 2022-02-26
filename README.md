@@ -13,6 +13,7 @@ Designed with [KiCad](https://www.kicad.org/) 6.0.  PCB allows mounting Pico dir
 ## Kerbers
 Kerber files ready to be sent to a PCB maker (like JLCPCB, PWBWay, etc...):
 * [PCB Version 1.0](kerbers/tiny-picoprobe-v1.zip)
+* [PCB Version 1.1](kerbers/tiny-picoprobe-v1.1.zip)
 
 You will only need the ZIP file (link above) to order PCBs. Simply upload the ZIP file to a PCB maker website. Then you typically only need to only select quantity and PCB color. If ordering from JLCPCB you can also choose to "Specify a location" in the Remove Order Number option (this will place order number on the PCB so that the Pico will cover it).
 
