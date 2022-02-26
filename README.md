@@ -1,7 +1,11 @@
 # tiny-picoprobe
-Tiny PicoProbe PCB, when you want to use PicoProbe to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) projects without a breadboard...
+Tiny PicoProbe PCB, when you want to use [PicoProbe](https://github.com/raspberrypi/picoprobe) to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) projects without a breadboard...
 
-PCB provides pinout to connect to Pico's "DEBUG" connector with flat (3-pin) ribbon cable, and it also has pinouts for UART and powering the Pico being programmed/debugged.
+If you are not already familiar with PicoProbe see Appendix A in [Getting Started With Pico (PDF)](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
+
+There is also tutorial here: [Raspberry Pi Pico and RP2040 - C/C++ Part 2: Debugging with VS Code](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0)
+
+PCB provides pinout to connect to Pico's SWD ("DEBUG") connector with flat (3-pin) ribbon cable, and it also has pinouts for UART and powering the Pico being programmed/debugged.
 
 ![Tiny PicoProbe PCB](images/tiny-picoprobe.png)
 
