@@ -21,6 +21,8 @@ Kerber files ready to be sent to a PCB maker (like JLCPCB, PWBWay, etc...):
 
 You will only need the ZIP file (link above) to order PCBs. Simply upload the ZIP file to a PCB maker website. Then you typically only need to only select quantity and PCB color. If ordering from JLCPCB you can also choose to "Specify a location" in the Remove Order Number option (this will place order number on the PCB so that the Pico will cover it).
 
+![Tiny PicoProbe PCB](images/pcb.png)
+
 ## Assembly
 PCB contains footprints for a 0805 size SMD LED and resistor to provide power indicator. Power indicator is optional.
 
