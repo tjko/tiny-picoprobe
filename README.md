@@ -1,5 +1,6 @@
 # tiny-picoprobe
 Tiny PicoProbe PCB, when you want to use [PicoProbe](https://github.com/raspberrypi/picoprobe) to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) projects without a breadboard...
+This was created to make it "handsfree" to update firmware when devloping [Fanpico (Smart PWM (PC) Fan Controller)](https://github.com/tjko/fanpico).
 
 If you are not already familiar with PicoProbe see Appendix A in [Getting Started With Pico (PDF)](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
 
