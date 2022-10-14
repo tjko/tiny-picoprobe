@@ -1,11 +1,16 @@
 # tiny-picoprobe
-Tiny PicoProbe PCB, when you want to use [PicoProbe](https://github.com/raspberrypi/picoprobe) to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) projects without a breadboard...
+
+Tiny PicoProbe is a small PCB to mount Raspberry Pi Pico, when you want to use [PicoProbe](https://github.com/raspberrypi/picoprobe) to debug your [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) projects without a breadboard...
+
+![Shrinkwrapped Tiny PicoProbe](images/tiny-picoprobe.jpg)
+
 This was created to make it "handsfree" to update firmware when devloping [Fanpico (Smart PWM (PC) Fan Controller)](https://github.com/tjko/fanpico).
 
 If you are not already familiar with PicoProbe see Appendix A in [Getting Started With Pico (PDF)](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
 
 There is also tutorial here: [Raspberry Pi Pico and RP2040 - C/C++ Part 2: Debugging with VS Code](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0)
 
+## PCB
 PCB provides pinout to connect to Pico's SWD ("DEBUG") connector with flat (3-pin) ribbon cable, and it also has pinouts for UART and powering the Pico being programmed/debugged.
 
 ![Tiny PicoProbe PCB](images/tiny-picoprobe.png)
@@ -16,7 +21,7 @@ Designed with [KiCad](https://www.kicad.org/) 6.0.  PCB allows mounting Pico dir
 ![Tiny PicoProbe with headers](images/headers.jpg)
 
 ## Kerbers
-Kerber files ready to be sent to a PCB maker (like JLCPCB, PWBWay, etc...):
+Kerber files ready to be sent to a PCB maker (like JLCPCB, PCBWay, etc...):
 * [PCB Version 1.0](kerbers/tiny-picoprobe-v1.zip)
 * [PCB Version 1.1](kerbers/tiny-picoprobe-v1.1.zip)
 
