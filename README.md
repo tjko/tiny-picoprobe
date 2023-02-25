@@ -50,7 +50,10 @@ R1|7.5k (0805)|Depending on LED used choose appropriate resistor. Green high-int
 Note, if soldering Pico directly on the PCB, then 1" diameter shrink tubing can be used to wrap the pico and PCB in nice insulated package.
 
 ## DIY Kits
-DIY Kits are made available in limited quantity. Check availability here: [eBay](https://www.ebay.com/usr/oh6lxv)
+
+If you'd like to support Open Source Hardware development.  DIY Kits are made available in limited quantity.
+
+Check availability here: [eBay](https://www.ebay.com/usr/oh6lxv)
 
 ## Credits
 Idea for this PCB came from [Fabien-Chouteau/picoprobe-pcb](https://github.com/Fabien-Chouteau/picoprobe-pcb) (check his version as he sells it on Tindie).
