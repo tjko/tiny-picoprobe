@@ -4,11 +4,21 @@ Tiny PicoProbe is a small PCB to mount Raspberry Pi Pico, when you want to use [
 
 ![Shrinkwrapped Tiny PicoProbe](images/tiny-picoprobe.jpg)
 
-This was created to make it "handsfree" to update firmware when devloping [Fanpico (Smart PWM (PC) Fan Controller)](https://github.com/tjko/fanpico).
+This was created to make it "handsfree" to update firmware when developing [Fanpico (Smart PWM (PC) Fan Controller)](https://github.com/tjko/fanpico).
 
 If you are not already familiar with PicoProbe see Appendix A in [Getting Started With Pico (PDF)](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
 
 There is also tutorial here: [Raspberry Pi Pico and RP2040 - C/C++ Part 2: Debugging with VS Code](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-2-debugging-with-vs-code/470abc7efb07432b82c95f6f67f184c0)
+
+**Update (February 2023)**: There is finally official "picoprobe" available: [Raspberry Pi Debug Probe](https://www.raspberrypi.com/products/debug-probe/).  
+which may be better choice if you're looking for ready-made solution. But if you prefer a DIY solution, continue reading...
+
+
+New Debug Probe makes "tiny-picoprobe" look not so small anymore:
+
+![size comparison](images/debugprobe.jpg)
+
+
 
 ## PCB
 PCB provides pinout to connect to Pico's SWD ("DEBUG") connector with flat (3-pin) ribbon cable, and it also has pinouts for UART and powering the Pico being programmed/debugged.
